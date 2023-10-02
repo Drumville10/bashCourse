@@ -1,5 +1,6 @@
 .
 ..
+archivo.txt
 arguments.sh
 case.sh
 conditionals.sh

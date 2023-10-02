@@ -2,3 +2,8 @@ Hola soy Jorge
 y este es mi primer bash script
 Estoy añadiendo más lineas al texto de prueba
 Hola!
+esta es una nueva linea de texto
+Linea de prueba
+nuevo contenido
+test nueva liena
+nuevo contenido test
